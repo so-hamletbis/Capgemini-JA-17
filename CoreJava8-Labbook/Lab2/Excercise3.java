@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class Excercise3 {
 
 	static int[] getSorted(int[] arr) {
 		int len = arr.length;
