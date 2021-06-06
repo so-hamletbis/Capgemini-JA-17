@@ -1,0 +1,8 @@
+package com.capgemini.exceptionhandling;
+
+public class E1UDexception extends Exception{
+
+	public E1UDexception() {
+		System.out.println("Age less than 15");
+	}
+}

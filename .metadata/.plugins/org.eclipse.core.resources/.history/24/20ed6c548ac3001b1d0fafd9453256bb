@@ -1,0 +1,5 @@
+package com.capgemini.exceptionhandling;
+
+public class E1UDexception {
+
+}

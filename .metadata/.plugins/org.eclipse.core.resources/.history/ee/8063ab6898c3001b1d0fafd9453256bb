@@ -1,0 +1,5 @@
+package com.capgemini.ex2;
+
+public class NameException {
+
+}
